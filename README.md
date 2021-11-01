@@ -1,6 +1,8 @@
 # react-flask-app
 
-Aplicação utilizando React e Flask. Basicamente a aplicação recebe um status "ok" da api (um script em Python) que libera o frontend (em React.js) exibir as imagens que estão salvas na pasta "images".
+Aplicação utilizando React e Flask. Basicamente a aplicação recebe um status "ok" da api (um script em Python) que libera o frontend (em React.js) exibir as imagens que estão salvas na pasta "images". As imagens exibidas são clicáveis, permitindo uma seleção delas.
+
+<img src="exemplo.jpg" alt="Imagem da aplicação" width="100%" />
 
 Baseado no tutorial:
 https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project
